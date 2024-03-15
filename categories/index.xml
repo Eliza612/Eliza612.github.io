@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Yameng | Portfolio</title>
+    <link>https://Eliza612.github.io/categories/</link>
+    <description>Recent content in Categories on Yameng | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Eliza612.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full-Stack</title>
+      <link>https://Eliza612.github.io/categories/full-stack/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://Eliza612.github.io/categories/full-stack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://Eliza612.github.io/categories/react/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://Eliza612.github.io/categories/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redux</title>
+      <link>https://Eliza612.github.io/categories/redux/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://Eliza612.github.io/categories/redux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Socket.io</title>
+      <link>https://Eliza612.github.io/categories/socket.io/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://Eliza612.github.io/categories/socket.io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://Eliza612.github.io/categories/java/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://Eliza612.github.io/categories/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Boot</title>
+      <link>https://Eliza612.github.io/categories/spring-boot/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://Eliza612.github.io/categories/spring-boot/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
